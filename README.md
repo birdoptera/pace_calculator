@@ -9,7 +9,7 @@ Pace (in hours/distance) and distance can be adjusted as desired (green boxes)
 
 Do not change values in blue boxes!
 
-The units the distance are in doesn't matter
+The units the distance are in doesn't matter as long as you are consistant
 
 If there aren't enough rows, just copy and paste the last rows- copy the entire rows so you also capture the hidden columns
 
